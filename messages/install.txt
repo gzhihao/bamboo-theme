@@ -1,0 +1,18 @@
+Welcome to Bamboo Theme
+
+
+Bamboo Theme for Sublime Text 3
+https://github.com/gzhihao/bamboo-theme for more info
+
+******************************************************************************
+To activate the theme, add or replace your current theme settings with the code 
+below.
+
+
+Settings for Afterglow
+{
+    "color_scheme": "Packages/bamboo-theme/Bamboo.tmTheme",
+    "theme": "Bamboo.sublime-theme",
+}
+
+MAKE SURE TO RESTART SUBLIME AFTER ACTIVATING THE THEME
