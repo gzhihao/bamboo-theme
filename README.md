@@ -4,14 +4,26 @@ Bamboo theme is a dark theme for Sublime Text 3. The syntax color scheme is most
 
 ## Screenshots
 
-![image]()
+**UI**
+![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_ui.png)
 
+**javascript**
+![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_javascript.png)
+
+**HTML**
+![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_html.png)
+
+**PHP**
+![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_php.png)
+
+**JAVA**
+![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_java.png)
 
 ## Easy installation
 You can install this theme through the [Package Control](https://packagecontrol.io/installation). Search for *"Bamboo Theme"*, install, **restart Sublime Text** and enjoy!
 
 --
-### Git Installation
+## Git Installation
 
 Locate your Sublime Text `Packages directory` by using the menu item `Preferences -> Browse Packages...`.
 
@@ -20,7 +32,7 @@ Then, clone the repository using this command:
     git clone https://github.com/gzhihao/bamboo-theme.git
 
 
-**Manual installation**
+## Manual installation
 
 1. Download the [latest release](https://github.com/gzhihao/bamboo-theme/releases/latest), extract and rename the folder to **"theme-bamboo"**.
 
