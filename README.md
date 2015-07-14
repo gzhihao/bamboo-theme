@@ -1,23 +1,8 @@
 # Bamboo Theme for Sublime Text 3
 
-Bamboo theme is a dark theme for Sublime Text 3. The syntax color scheme is mostly derived from previvous [djangoproject](https://www.djangosites.org/s/www-djangoproject-com/).
+Bamboo theme is a dark theme for Sublime Text 3. The syntax color scheme is mostly derived from previous [djangoproject](https://www.djangosites.org/s/www-djangoproject-com/).
 
-## Screenshots
-
-**UI**
 ![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_ui.png)
-
-**javascript**
-![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_javascript.png)
-
-**HTML**
-![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_html.png)
-
-**PHP**
-![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_php.png)
-
-**JAVA**
-![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_java.png)
 
 ## Easy installation
 You can install this theme through the [Package Control](https://packagecontrol.io/installation). Search for *"Bamboo Theme"*, install, **restart Sublime Text** and enjoy!
@@ -46,6 +31,19 @@ Then, clone the repository using this command:
 ```
 
 ***Note*** : Remember to restart Sublime Text after activating the theme.
+
+## more screenshots
+**javascript**
+![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_javascript.png)
+
+**HTML**
+![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_html.png)
+
+**PHP**
+![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_php.png)
+
+**JAVA**
+![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_java.png)
 
 ## TODO
 * Retina Resolution UI
