@@ -5,7 +5,20 @@ Bamboo theme is a dark theme for Sublime Text 3. The syntax color scheme is most
 ![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_ui.png)
 
 ## Easy installation
-You can install this theme through the [Package Control](https://packagecontrol.io/installation). Search for *"Bamboo Theme"*, install, **restart Sublime Text** and enjoy!
+You can install this theme through the [Package Control](https://packagecontrol.io/installation). Search for *"Theme Bamboo"* and install
+
+Activate the theme with the following preferences at  **(Preferences > Setting - User)**:
+
+```json
+{
+    "theme": "Bamboo.sublime-theme",
+    "color_scheme": "Packages/Theme - Bamboo/Bamboo.tmTheme"
+}
+```
+
+***Note*** : Remember to restart Sublime Text after activating the theme.
+
+enjoy!
 
 --
 ## Git Installation
@@ -14,23 +27,18 @@ Locate your Sublime Text `Packages directory` by using the menu item `Preference
 
 Then, clone the repository using this command:
 
-    git clone https://github.com/gzhihao/bamboo-theme.git
+    git clone https://github.com/gzhihao/bamboo-theme.git "Theme - Bamboo"
 
+Activate the theme by edit the user setting as described easy installation 
 
 ## Manual installation
 
-1. Download the [latest release](https://github.com/gzhihao/bamboo-theme/releases/latest), extract and rename the folder to **"theme-bamboo"**.
+Download the [latest release](https://github.com/gzhihao/bamboo-theme/releases/latest), extract and rename the folder to **"Theme - Bamboo"**.
 
-2. Move the folder inside your sublime Packages directory. **(Preferences > Browse packages...)**
+Move the folder inside your sublime Packages directory. **(Preferences > Browse packages...)**
 
-3. Activate the theme with the following preferences at  **(Preferences > Setting - User)**:
+Activate the theme by edit the user setting as described easy installation 
 
-```json
-"theme": "Bamboo.sublime-theme",
-"color_scheme": "Packages/bamboo-theme/Bamboo.tmTheme",
-```
-
-***Note*** : Remember to restart Sublime Text after activating the theme.
 
 ## more screenshots
 **javascript**

@@ -11,7 +11,7 @@ below.
 
 Settings for Afterglow
 {
-    "color_scheme": "Packages/bamboo-theme/Bamboo.tmTheme",
+    "color_scheme": "Packages/Theme - Bamboo/Bamboo.tmTheme",
     "theme": "Bamboo.sublime-theme",
 }
 
