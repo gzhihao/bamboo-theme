@@ -619,15 +619,16 @@
         "layer0.texture": "Theme - Bamboo/icons/folder.png",
         "layer0.opacity": 0.8,
         "layer0.inner_margin": 0,
-        "content_margin": [8,0] // hide for now until we get better icons
+        "content_margin": [8,8] // hide for now until we get better icons
     },
     // Sidebar folder opened
     {
         "class": "icon_folder",
         "parents": [{ "class": "tree_row", "attributes": ["expanded"]}],
-        "layer0.texture": "Theme - Bamboo/icons/folder.png",
+        "layer0.texture": "Theme - Bamboo/icons/folder-open.png",
+        "layer0.opacity": 0.8,
         "layer0.inner_margin": 0,
-        "content_margin": [8,0] // hide for now until we get better icons
+        "content_margin": [8,8] // hide for now until we get better icons
     },
 //
 // STANDARD TEXT BUTTONS
