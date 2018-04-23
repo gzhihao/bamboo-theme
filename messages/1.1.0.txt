@@ -1,0 +1,4 @@
+## 1.1.0 Update!
+
+- Add icon for folders in sidebar
+- Fix Ctrl P selection highlight color for retina display
