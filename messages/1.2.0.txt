@@ -1,0 +1,5 @@
+## 1.2.0 Update!
+
+- Add missing folder images
+- Fine tuning some colors
+- Update readme
