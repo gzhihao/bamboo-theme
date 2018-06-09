@@ -41,22 +41,23 @@ Activate the theme by edit the user setting as described easy installation
 
 
 ## more screenshots
-**javascript**
+
+### javascript
 ![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_javascript.png)
 
-**HTML**
+### HTML
 ![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_html.png)
 
-**CSS**
+### CSS
 ![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_css.png)
 
-**Python**
+### Python
 ![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_python.png)
 
-**PHP**
+### PHP
 ![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_php.png)
 
-**JAVA**
+### JAVA
 ![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_java.png)
 
 ## Known issues
