@@ -47,14 +47,17 @@ Activate the theme by edit the user setting as described easy installation
 **HTML**
 ![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_html.png)
 
+**CSS**
+![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_css.png)
+
+**Python**
+![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_python.png)
+
 **PHP**
 ![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_php.png)
 
 **JAVA**
 ![image](https://raw.githubusercontent.com/gzhihao/bamboo-theme/master/assets/bamboo_java.png)
-
-## TODO
-* Retina Resolution UI
 
 ## Known issues
 
